@@ -1,0 +1,31 @@
+_repo: The-Genius_22004
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Potter, Margaret Horton
+    aliases:
+    - Williams, Robert Dolly
+    - Black, Margaret Horton
+    birthdate: 1881
+    deathdate: 1911
+    gutenberg_agent_id: '25023'
+    url: http://www.gutenberg.org/2009/agents/25023
+description: ''
+gutenberg_issued: '2007-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Composers -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Russia -- Fiction'
+- !lcc 'PS'
+title: The Genius
+url: http://www.gutenberg.org/ebooks/22004
